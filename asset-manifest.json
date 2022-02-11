@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Slideshow_app/static/css/main.e43691d7.chunk.css",
+    "main.js": "/Slideshow_app/static/js/main.c92475ee.chunk.js",
+    "main.js.map": "/Slideshow_app/static/js/main.c92475ee.chunk.js.map",
+    "runtime-main.js": "/Slideshow_app/static/js/runtime-main.fecd3db4.js",
+    "runtime-main.js.map": "/Slideshow_app/static/js/runtime-main.fecd3db4.js.map",
+    "stencil-h8k-logo_2-entry-js.js": "/Slideshow_app/static/js/stencil-h8k-logo_2-entry-js.c6c63472.chunk.js",
+    "stencil-h8k-logo_2-entry-js.js.map": "/Slideshow_app/static/js/stencil-h8k-logo_2-entry-js.c6c63472.chunk.js.map",
+    "stencil-polyfills-css-shim.js": "/Slideshow_app/static/js/stencil-polyfills-css-shim.aeec233e.chunk.js",
+    "stencil-polyfills-css-shim.js.map": "/Slideshow_app/static/js/stencil-polyfills-css-shim.aeec233e.chunk.js.map",
+    "static/css/4.4932a258.chunk.css": "/Slideshow_app/static/css/4.4932a258.chunk.css",
+    "static/js/4.0c0c6a88.chunk.js": "/Slideshow_app/static/js/4.0c0c6a88.chunk.js",
+    "static/js/4.0c0c6a88.chunk.js.map": "/Slideshow_app/static/js/4.0c0c6a88.chunk.js.map",
+    "static/js/5.dfb9c74f.chunk.js": "/Slideshow_app/static/js/5.dfb9c74f.chunk.js",
+    "static/js/5.dfb9c74f.chunk.js.map": "/Slideshow_app/static/js/5.dfb9c74f.chunk.js.map",
+    "static/js/6.53ebfd6b.chunk.js": "/Slideshow_app/static/js/6.53ebfd6b.chunk.js",
+    "static/js/6.53ebfd6b.chunk.js.map": "/Slideshow_app/static/js/6.53ebfd6b.chunk.js.map",
+    "index.html": "/Slideshow_app/index.html",
+    "precache-manifest.3c1c2360768f16a6c2451463857e5338.js": "/Slideshow_app/precache-manifest.3c1c2360768f16a6c2451463857e5338.js",
+    "service-worker.js": "/Slideshow_app/service-worker.js",
+    "static/css/4.4932a258.chunk.css.map": "/Slideshow_app/static/css/4.4932a258.chunk.css.map",
+    "static/css/main.e43691d7.chunk.css.map": "/Slideshow_app/static/css/main.e43691d7.chunk.css.map",
+    "static/js/4.0c0c6a88.chunk.js.LICENSE.txt": "/Slideshow_app/static/js/4.0c0c6a88.chunk.js.LICENSE.txt",
+    "static/js/5.dfb9c74f.chunk.js.LICENSE.txt": "/Slideshow_app/static/js/5.dfb9c74f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fecd3db4.js",
+    "static/css/4.4932a258.chunk.css",
+    "static/js/4.0c0c6a88.chunk.js",
+    "static/css/main.e43691d7.chunk.css",
+    "static/js/main.c92475ee.chunk.js"
+  ]
+}
